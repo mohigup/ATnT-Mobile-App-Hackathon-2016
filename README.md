@@ -2,11 +2,11 @@
 
   Every year a retail company spends about 1 Million dollars on energy saving. With Dexterous, companies can take advantage of the IoT devices and automatically scale up or down their resources, without spending much.
 ### What is Dexterous?
-  We made Dexterous with the aim managing crowd in potential areas like Grocery shops and theatres. 
-  This app helps the store managers and employees scale their possible reesources as the number of customers increase. 
-  The increase in the number of people in an enclosed area is diretly related too the surrounding temperature.
+  Dexterous is a IoT based hybrid mobile app that helps manage crowd in potential areas like Grocery shops and theatres. 
+  This app helps the store managers and employees scale their possible resources as the number of customers increase and analyse the daily crowd  density. 
+  The increase in the number of people in an enclosed area is directly related too the surrounding temperature.
   How does this work?
-  1. The IoT device is responsible for sensing room temperature.
+  1. The IoT device senses the surrounding temperature.
   2. We set three levels of crowd, Low, Medium and High
   3. The goal is to alert the store employees when the level reaches High.
   4. The IoT device also depicts the rising temperature levels with an LCD display attached (green for low, yellow for medium and red for high)
